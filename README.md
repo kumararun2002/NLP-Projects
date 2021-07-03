@@ -10,3 +10,6 @@ Validation :- https://drive.google.com/file/d/1-8m8ya3tED2puYF3u9uWOiI1hb5ArzSB/
 Developed a Seq2Seq model (with LSTM based Encoder - Decoder Architecture) to translate German sentences to English sentences.
 
 ## Sentiment Analysis using BERT
+Dataset :- SMILE Twitter Emotion Dataset (Present in the .zip file)
+
+Performed Exploratory Data Analysis on the SMILE Twitter Emotion Dataset. Developed a model using BERT Pretrained model of Pytorch to predict the major emotion in a Twitter tweet.
